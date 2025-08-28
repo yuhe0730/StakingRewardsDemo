@@ -93,9 +93,6 @@ REWARDS_TOKEN_ADDRESS=<deployed_rewards_token_address>
 
 **RewardsToken address: 0x55d1632087b123E0988CE2c718ba30A5502Eb697**
 
-Ensure you set ETHERSCAN_API_KEY in your environment. This will submit the source to Etherscan so that anyone can view and verify the code.
-
-
 ### License
 
 This project is released under the MIT License.
