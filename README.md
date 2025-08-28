@@ -85,6 +85,10 @@ REWARDS_TOKEN_ADDRESS=<deployed_rewards_token_address>
 
 **Example contract (deployed on Sepolia, have verified): 0x66CA707065F392CaC31971ECbb88CC3F3E3c1041**
 
+<img width="1476" height="713" alt="image" src="https://github.com/user-attachments/assets/28fc3c1e-2dcd-4e87-98ba-ecb9919e622d" />
+
+<img width="1524" height="666" alt="image" src="https://github.com/user-attachments/assets/317d9bc2-18e8-4cbf-8ae0-fe08cda076a1" />
+
 **StakingToken address: 0x5ce6290A3923f82A302f2fdEfFbB92Ed8eA2D023**
 
 **RewardsToken address: 0x55d1632087b123E0988CE2c718ba30A5502Eb697**
